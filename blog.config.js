@@ -298,7 +298,7 @@ const BLOG = {
     {
       name: '新造的人',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://www.ihaoge.net/server/1/185643965.mp3',
+      url: 'https://ls-sycdn.kuwo.cn/e05f092f26eebe633895cd5a9633476b/66211927/resource/n3/47/51/3721461788.mp3?from=vip',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
