@@ -300,7 +300,7 @@ const BLOG = {
       artist: 'Falcom Sound Team jdk',
       url: 'https://ls-sycdn.kuwo.cn/e05f092f26eebe633895cd5a9633476b/66211927/resource/n3/47/51/3721461788.mp3?from=vip',
       cover:
-        'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2905021483.webp'
+        'https://inews.gtimg.com/news_bt/OV4W2oI_CcTHDmDJhPzOGcWytqmWXxkNOIMJ9-4_auUnkAA/641'
     },
     {
       name: '王都グランセル',
