@@ -19,7 +19,7 @@ const BLOG = {
   // 3.14.1版本后，欢迎语在此配置，英文逗号隔开 ,  即可支持多个欢迎语打字效果。
   GREETING_WORDS:
     process.env.NEXT_PUBLIC_GREETING_WORDS ||
-    'Hi，我是Paul。来自中国成都。,生命这样的旅程，我渴求你的微笑来完整。欢迎来到我的博客《新造的Paul》！我将与大家分享我的科技、旅行、理财的见闻和心得，同时也会探讨成都生活吃喝玩乐相关的话题。,The new born Pual🎉',
+    'Hi，我是Paul，来自中国四川成都。,生命这样的旅程，我渴求你的微笑来完整。欢迎来到我的网站！我将与大家分享我的科技、旅行、理财的见闻和心得，同时也会探讨成都生活吃喝玩乐相关的话题。,The new born Pual🎉',
 
   CUSTOM_MENU: process.env.NEXT_PUBLIC_CUSTOM_MENU || false, // 支持Menu 类型，从3.12.0版本起，各主题将逐步支持灵活的二级菜单配置，替代了原来的Page类型，此配置是试验功能、默认关闭。
 
