@@ -19,14 +19,14 @@ const BLOG = {
   // 3.14.1版本后，欢迎语在此配置，英文逗号隔开 ,  即可支持多个欢迎语打字效果。
   GREETING_WORDS:
     process.env.NEXT_PUBLIC_GREETING_WORDS ||
-    'Hi，我是Paul，来自中国四川成都。,生命这样的旅程，我渴求你的微笑来完整。欢迎来到我的网站！我将与大家分享我的科技、旅行、理财的见闻和心得，同时也会探讨成都生活吃喝玩乐相关的话题。,The new born Paul🎉',
+    'Hi，我是Paul，来自中国四川成都。,生命这样的旅程，我渴求你的微笑来完整。欢迎来到我的网站！我将与大家分享我的科技、旅行、理财的见闻和心得，同时也会探讨成都生活吃喝玩乐相关的话题。,The new born Paul BLOG🎉',
 
   CUSTOM_MENU: process.env.NEXT_PUBLIC_CUSTOM_MENU || false, // 支持Menu 类型，从3.12.0版本起，各主题将逐步支持灵活的二级菜单配置，替代了原来的Page类型，此配置是试验功能、默认关闭。
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'Paul', // 您的昵称 例如 tangly1024
-  BIO: process.env.NEXT_PUBLIC_BIO || '新造的人', // 作者简介
+  BIO: process.env.NEXT_PUBLIC_BIO || 'BLOG', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://blog.552355.zxy', // 网站地址
-  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Paul, New Born', // 网站关键词 英文逗号隔开
+  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Paul, BLOG', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'paul@552355.xyz', // 邮箱地址 例如mail@tangly1024.com
@@ -523,7 +523,7 @@ const BLOG = {
   HOME_BANNER_IMAGE:
     process.env.NEXT_PUBLIC_HOME_BANNER_IMAGE || '/bg_image.jpg', // 首页背景大图, 会被notion中的封面图覆盖，若无封面图则会使用代码中的 /public/bg_image.jpg 文件
   DESCRIPTION:
-    process.env.NEXT_PUBLIC_DESCRIPTION || '中国成都的Paul的BLOG', // 站点描述，被notion中的页面描述覆盖
+    process.env.NEXT_PUBLIC_DESCRIPTION || '成都Paul BLOG', // 站点描述，被notion中的页面描述覆盖
 
   // 开发相关
   NOTION_ACCESS_TOKEN: process.env.NOTION_ACCESS_TOKEN || '', // Useful if you prefer not to make your database public
