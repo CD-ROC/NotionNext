@@ -298,7 +298,7 @@ const BLOG = {
     {
       name: '新造的人',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://ls-sycdn.kuwo.cn/e05f092f26eebe633895cd5a9633476b/66211927/resource/n3/47/51/3721461788.mp3?from=vip',
+      url: 'https://ls-sycdn.kuwo.cn/e05f092f26eebe633895cd5a9633476b/66211927/resource/n3/47/51/3721461788.mp3',
       cover:
         'https://inews.gtimg.com/news_bt/OV4W2oI_CcTHDmDJhPzOGcWytqmWXxkNOIMJ9-4_auUnkAA/641'
     },
