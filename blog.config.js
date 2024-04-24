@@ -298,7 +298,7 @@ const BLOG = {
     {
       name: '新造的人',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=2132217277.mp3',
+      url: 'https://music.163.com/song/media/outer/url?id=2132166907.mp3',
       cover:
         'https://inews.gtimg.com/news_bt/OV4W2oI_CcTHDmDJhPzOGcWytqmWXxkNOIMJ9-4_auUnkAA/641'
     },
